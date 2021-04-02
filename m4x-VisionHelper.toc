@@ -1,0 +1,8 @@
+## Interface: 80300
+## Title: m4x Vision Helper
+## Notes: Helper for Vision Potions
+## Author: m4xc4v413r4
+## Version: v0.1
+## SavedVariables: m4xVisionHelperDB
+
+m4x-VisionHelper.lua
